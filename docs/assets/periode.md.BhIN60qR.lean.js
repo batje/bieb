@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as l,a2 as i}from"./chunks/framework.CQ12TVIp.js";const _=JSON.parse('{"title":"Periode Onderwijs","description":"","frontmatter":{},"headers":[],"relativePath":"periode.md","filePath":"periode.md"}'),r={name:"periode.md"},n=i("",16),o=[n];function t(s,d,h,u,c,p){return l(),a("div",null,o)}const b=e(r,[["render",t]]);export{_ as __pageData,b as default};
