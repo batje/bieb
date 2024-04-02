@@ -8,7 +8,7 @@ De mensen die helpen selecteren & categoriseren zijn:
 Vader van Euan uit klas 2 & Morgan uit klas 6. Leest de krant en 's nachts Scandinavische thrillers en met de kinderen Wipneus en Pim.
 
 - Miranda op de Oordt
-Moeder van Rovor uit klas 2. Leest samen met de kinderen de Heksen van Roald Dahl.
+Moeder van Rovor uit klas 2. Leest graag fictie (Nederlandse literatuur) en non fictie (biografien en inspirerende boeken). Maar geniet ook mee van de kinderboeken.
 
 
 
