@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "De bibliotheek op de Bernard Lievegoed School"
+  name: "Bieb op de BLS"
   text: ""
-  tagline: Mooier, Beter & Voller
+  tagline: Een inzamelingsactie van de allermooiste boeken voor onze kinderen
   actions:
     - theme: brand
       text: Wat doen we?
@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: Literatuur
-    details: De Grote Vriendelijke 100 lijst is een mooie mix tussen oud en nieuw leesplezier
+    details: Kwaliteitsboeken uit betrouwbare bron
     link: /literuur
   - title: Periode Onderwijs
     details: Titels die aansluiten bij de onderwerpen die in de klas besproken worden.
@@ -28,7 +28,7 @@ features:
     details: Complete series om van begin tot het einde uit te lezen.
     link: /series
   - title: Klassieken
-    details: Oude verhalen uit vervlogen tijden.
+    details: Oude verhalen die altijd blijven.
     link: /klassieken
   - title: Christofoor
     details: Die thuishoren op een Vrije School
