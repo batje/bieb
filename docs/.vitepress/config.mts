@@ -4,6 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "BLS Bieb",
   description: "De bibliotheek op de Bernard Lievegoed School",
+  base: "/bieb/",
   head: [
     [
       "script",

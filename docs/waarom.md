@@ -1,8 +1,10 @@
 # Waarom
 
+Lezen is de allerbelangrijkste vaardigheid die kinderen leren in het basisonderwijs. Ook sommen moet je kunnen lezen. En formulieren, contracten, liefdesbrieven en andere belangrijke zaken. En lezen is ook een heerlijk tijdverdrijf dat je overal en altijd kunt doen.
+
 De leesvaardigheid op de Bernard Lievegoedschool voldoet aan het Nederlandse gemiddelde.
 
-Echter, in heel Europa gaat op het moment de leesvaardigheid achteruit. En in Nederland nog iets sneller.
+Echter, in heel Europa gaat op het moment de leesvaardigheid hard achteruit. En in Nederland nog iets harder.
 
 Reden genoeg dus om extra ons best te doen om kinderen zo veel en zo goed mogelijk te laten lezen.
 
