@@ -7,6 +7,7 @@ Deze lijst is niet volledig, maar bestaat onder andere uit:
 
 ## Klas 1
 
+- :frog: Kikkervisjes & Salamanders
 
 ## Klas 2
 
@@ -15,11 +16,13 @@ Deze lijst is niet volledig, maar bestaat onder andere uit:
 
 ## Klas 3
 
-- :elf: Noorse Mythen
+- Bijbelverhalen (uit het oude testament)
 
 
 ## Klas 4
 
+- :elf: Noorse Mythen
+- Nederlandse topografie
 
 ## Klas 5
 
@@ -31,7 +34,7 @@ Deze lijst is niet volledig, maar bestaat onder andere uit:
 
 - :balance_scale: De Romeinen
 - :military_helmet: De Tweede Wereldoorlog
-
+- Kijkdozen
 
 Daarnaast zijn er nog onderwerpen die vaker terug komen:
 
