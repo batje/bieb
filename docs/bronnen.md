@@ -7,7 +7,7 @@ Bij het lezen over lezen komen we bronnen tegen op het internet die we graag del
 - De [Jeugdbiblioteek](https://www.jeugdbibliotheek.nl/6-12-jaar.html)
 
 ## Leesonderwijs in de pers
-- [Moeilijke boeken lezen is niet zielig](https://www.groene.nl/artikel/moeilijke-boeken-lezen-is-niet-zielig) de afluiting met oplossingen uit een [serie artikelen over onderwijs](https://www.groene.nl/lijsten/de-leescrisis-in-het-onderwijs) van de [Groene Amsterdammer](https://www.groene.nl/).
+- [Moeilijke boeken lezen is niet zielig](https://www.groene.nl/artikel/moeilijke-boeken-lezen-is-niet-zielig) de afsluiting met oplossingen uit een [serie artikelen over onderwijs](https://www.groene.nl/lijsten/de-leescrisis-in-het-onderwijs) van de [Groene Amsterdammer](https://www.groene.nl/).
 
 ## Twitter
 Accounts om te volgen op twitter.
@@ -27,9 +27,8 @@ Accounts om te volgen op twitter.
 <iframe src="https://eenvandaag.avrotros.nl/embed/544995/" width="560" height="315" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 ## PISA
-
 - Analyze van de PISA scores op [lezen.nl](https://www.lezen.nl/onderzoek/leesprestaties-nederlandse-middelbare-scholieren-gaan-achteruit/)
-- De (engelstalige) [conclusies van het PISA onderzoek](https://www.oecd.org/publication/pisa-2022-results/country-notes/netherlands-0941b029/), met grafieken.
+- De (Engelstalige) [conclusies van het PISA onderzoek](https://www.oecd.org/publication/pisa-2022-results/country-notes/netherlands-0941b029/), met grafieken.
 
 ## Voor docenten
 
@@ -40,4 +39,4 @@ Accounts om te volgen op twitter.
 Afleveringen of hele podcasts, allemaal over onderwijs.
 - [De gelukkige school](https://open.spotify.com/episode/7nzBquEOFDAFlUGvtyZsb1?go=1&sp_cid=97e1810e2a2906cea9bfa79a94da8e3d) alweer van Stichting Leerkracht.
 - [Onderwijs leiden met hart en ziel](https://podcastluisteren.nl/pod/Onderwijs-leiden-met-hart-en-ziel) waaiert over een heel breed scala aan onderwerpen. Interessant is wellicht de aflevering over [Hoe kennis terugkeert in het Onderwijs](https://podcastluisteren.nl/ep/Onderwijs-leiden-met-hart-en-ziel-72-Maarten-Huygen-en-Erik-Ex-over-Nog-wat-geleerd-vandaag-Hoe-kennis-terugkeert-in-het-onderwijs).
-- De filosoof Ad Verbrugge duikt regelmatig op met filosofische beschouwingen over verbeteringen in het onderwijs. Moet je zin in hebben, en hoef je het zeker niet allemaal mee eens te zijn. [Hier op Youtube in een tweegesprek over transitie in het onderwijs](https://www.youtube.com/watch?v=X521dXcXTRA) op De Nieuwe Wereld en [op spotify over het PISA onderzoek](https://open.spotify.com/episode/2FkKhNsGPLyKNHgNimPBuZ).
+- De filosoof Ad Verbrugge duikt regelmatig op met filosofische beschouwingen over verbeteringen in het onderwijs. Moet je zin in hebben, en hoef je het zeker niet allemaal mee eens te zijn. [Hier op Youtube in een tweegesprek over transitie in het onderwijs](https://www.youtube.com/watch?v=X521dXcXTRA) op De Nieuwe Wereld en [op Spotify over het PISA onderzoek](https://open.spotify.com/episode/2FkKhNsGPLyKNHgNimPBuZ).

@@ -47,7 +47,7 @@ export default defineConfig({
         items: [
           { text: "Wat", link: "/wat" },
           { text: "Hoe", link: "/hoe" },
-          { text: "waarom", link: "/waarom" },
+          { text: "Waarom", link: "/waarom" },
         ],
       },
       {
@@ -61,10 +61,20 @@ export default defineConfig({
           { text: "Strips", link: "/strips" },
         ],
       },
+      {
+        text: "Meer weten",
+        items: [{ text: "Bronnen", link: "/bronnen" }],
+      },
     ],
 
-    socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
-    ],
+    socialLinks: [{ icon: "github", link: "https://github.com/batje/bieb" }],
+    footer: {
+      message:
+        "Dit is een onafhankelijk ouder initiatief. De BLS of Stichting Pa.",
+      copyright: "",
+    },
+    externalLinkIcon: true,
+    darkModeSwitchTitle: "Licht uit",
+    lightModeSwitchTitle: "Licht aan",
   },
 });

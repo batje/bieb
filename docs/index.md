@@ -19,8 +19,9 @@ hero:
 
 features:
   - title: Literatuur
+
     details: Kwaliteitsboeken uit betrouwbare bron
-    link: /literuur
+    link: /literatuur
   - title: Periode Onderwijs
     details: Titels die aansluiten bij de onderwerpen die in de klas besproken worden.
     link: /periode

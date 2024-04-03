@@ -8,3 +8,12 @@ Die collectie is in de loop der jaren flink uitgedund, en we willen de school gr
 
 Daarvoor zamelen we samen boeken in en schaffen we via Marktplaats en andere tweedehands kanalen mooie boeken aan die onze kinderen kunnen lenen en vooral, lezen.
 
+We zoeken boeken in de volgende categorieën:
+
+- [Literatuur](literatuur)
+- [Periode Onderwijs](periode)
+- [Series](series)
+- [Klassieken](klassieken)
+- [Christofoor](christofoor)
+- [Strips](strips)
+
