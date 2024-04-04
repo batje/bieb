@@ -33,10 +33,11 @@ Accounts om te volgen op twitter.
 ## Voor docenten
 
 - [Doorloopjes](https://doorloopjes.nl/) is een website met heel veel kleine tips over lesgeven die allemaal evidence-informed zijn. Dat wil zeggen dat ze gebaseerd zijn op wetenschappelijk onderzoek. Er is ook een doorloopje over [het bouwen aan een leescultuur](https://doorloopjes.nl/topic/verdiepen-bouwen-aan-een-leescultuur/)
-- [Stichting Leerkracht)[https://stichting-leerkracht.nl/] helpt leerkrachten verbeteren. Ze hebben ook een [overzichtsartikel over begrijpend lezen](https://stichting-leerkracht.nl/kennisbank/begrijpend-lezen/).
+- [Stichting Leerkracht](https://stichting-leerkracht.nl/) helpt leerkrachten verbeteren. Ze hebben ook een [overzichtsartikel over begrijpend lezen](https://stichting-leerkracht.nl/kennisbank/begrijpend-lezen/).
+- Als facebook meer je ding is, [OnderwijsEnzo](https://www.facebook.com/onderwijsenzo).
 
 ## Podcasts
 Afleveringen of hele podcasts, allemaal over onderwijs.
-- [De gelukkige school](https://open.spotify.com/episode/7nzBquEOFDAFlUGvtyZsb1?go=1&sp_cid=97e1810e2a2906cea9bfa79a94da8e3d) alweer van Stichting Leerkracht.
+- [De Gelukkige School](https://open.spotify.com/episode/7nzBquEOFDAFlUGvtyZsb1?go=1&sp_cid=97e1810e2a2906cea9bfa79a94da8e3d) alweer van Stichting Leerkracht.
 - [Onderwijs leiden met hart en ziel](https://podcastluisteren.nl/pod/Onderwijs-leiden-met-hart-en-ziel) waaiert over een heel breed scala aan onderwerpen. Interessant is wellicht de aflevering over [Hoe kennis terugkeert in het Onderwijs](https://podcastluisteren.nl/ep/Onderwijs-leiden-met-hart-en-ziel-72-Maarten-Huygen-en-Erik-Ex-over-Nog-wat-geleerd-vandaag-Hoe-kennis-terugkeert-in-het-onderwijs).
 - De filosoof Ad Verbrugge duikt regelmatig op met filosofische beschouwingen over verbeteringen in het onderwijs. Moet je zin in hebben, en hoef je het zeker niet allemaal mee eens te zijn. [Hier op Youtube in een tweegesprek over transitie in het onderwijs](https://www.youtube.com/watch?v=X521dXcXTRA) op De Nieuwe Wereld en [op Spotify over het PISA onderzoek](https://open.spotify.com/episode/2FkKhNsGPLyKNHgNimPBuZ).
