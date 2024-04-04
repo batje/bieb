@@ -9,20 +9,23 @@ Deze lijst is niet volledig, maar bestaat onder andere uit:
 
 - :frog: Kikkervisjes & Salamanders
 
+
 ## Klas 2
 
 - :dragon: Fabels
 - :bee: Bijen
 
+
 ## Klas 3
 
-- Bijbelverhalen (uit het oude testament)
+- :closed_book: Bijbelverhalen (uit het oude testament)
 
 
 ## Klas 4
 
 - :elf: Noorse Mythen
-- Nederlandse topografie
+- :netherlands: Nederlandse topografie
+
 
 ## Klas 5
 
@@ -34,7 +37,8 @@ Deze lijst is niet volledig, maar bestaat onder andere uit:
 
 - :balance_scale: De Romeinen
 - :military_helmet: De Tweede Wereldoorlog
-- Kijkdozen
+- :house: Kijkdozen
+
 
 Daarnaast zijn er nog onderwerpen die vaker terug komen:
 
@@ -42,4 +46,4 @@ Daarnaast zijn er nog onderwerpen die vaker terug komen:
 - :sunflower: Tuinieren
 
 
-Dit is een hele brede en grote categorie, dus we zullen niet alle boeken kunnen plaatsen.
+Dit is een hele brede en grote categorie, dus we zullen niet alle boeken kunnen plaatsen. Wil je een gedoneerd boek terug als we er geen plaats voor hebben, stop er een briefje in met je (kinds) naam, klas & email en je krijgt het terug. Anders doneren we het aan de [Boekenkelder](https://boekenvoormensen.nl/de-kelder/).
