@@ -5,9 +5,6 @@ layout: home
 hero:
   name: "Bieb op de BLS"
   text: ""
-  image:
-    src: images/berichtaandeleraarstijn.png
-    alt: Bericht aan de leraar
   tagline: Een inzamelingsactie van de allermooiste boeken voor onze kinderen
   actions:
     - theme: brand
@@ -42,7 +39,7 @@ features:
     link: /stripsvereniging beter onderwijs Nederland
 ---
 
-<iframe style="float: right;" width="560" height="315" src="https://www.youtube.com/embed/UEt4nWnzaOw?si=yvElkusD4Lso5ETB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!--<iframe style="float: right;" width="560" height="315" src="https://www.youtube.com/embed/UEt4nWnzaOw?si=yvElkusD4Lso5ETB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
 In de nabije toekomst gaat de Bernard Lievegoedschool deelnemen aan het project ['De bibliotheek op School'](https://www.debibliotheekopschool.nl/). Dat is geweldig en daar zijn we heel blij mee.
 
