@@ -5,6 +5,7 @@ export default defineConfig({
   title: "BLS Bieb",
   description: "De bibliotheek op de Bernard Lievegoed School",
   base: "/bieb/",
+  lang: "nl-NL",
   head: [
     [
       "script",
