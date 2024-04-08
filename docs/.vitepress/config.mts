@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "BLS Bieb",
   description: "De bibliotheek op de Bernard Lievegoed School",
-  base: "/bieb/",
+  base: "/",
   lang: "nl-NL",
   head: [
     [
@@ -71,7 +71,7 @@ export default defineConfig({
     socialLinks: [{ icon: "github", link: "https://github.com/batje/bieb" }],
     footer: {
       message:
-        "Dit is een onafhankelijk ouder initiatief. De BLS of Stichting Pa.",
+        "Dit is een onafhankelijk ouder initiatief, onafhankelijk van BLS of Stichting Pallas.",
       copyright: "",
     },
     externalLinkIcon: true,
