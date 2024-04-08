@@ -6,9 +6,6 @@ hero:
   name: "Bieb op de BLS"
   text: ""
   tagline: Een inzamelingsactie van de allermooiste boeken voor onze kinderen
-  image:
-    src: images/boekenkast-beetjeleeg-transparent.png
-    alt: boekenkast
   actions:
     - theme: brand
       text: Wat doen we?
