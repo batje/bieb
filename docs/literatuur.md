@@ -24,3 +24,6 @@ Het equivalent voor illustraties is de Gouden Penseel.
 De lijsten worden samengesteld door een vakjury, en dus worden niet alle boeken een even groot succes, maar de kwaliteit van deze boeken staat buiten kijf.
 
 De lijst van Griffel winnaars (sinds 1971) staat op [Wikipedia](https://nl.wikipedia.org/wiki/Gouden_Griffel) en die van de [Penselen](https://nl.wikipedia.org/wiki/Gouden_Penseel) ook.
+
+## Woutertje Pieterse Prijs
+De [Woutertje Pieterse Prijs](https://woutertjepieterseprijs.nl/) wordt elk jaar uitgerijkt aan het allerbeste oorspronkelijk Nederlandstalige kinder- of jeugdboek. Een jury bepaald de winnaar.
