@@ -1,5 +1,6 @@
 ---
 outline: deep
+title: Complete Series
 ---
 
 # Complete Series

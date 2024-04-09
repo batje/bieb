@@ -1,4 +1,5 @@
 ---
+title: Kinderliteratuur
 outline: deep
 ---
 Om zo objectief mogelijk te blijven, en omdat wij ook niet alles gelezen hebbben houden we ons bij de selectie van de literatuur aan de volgende twee lijsten.
@@ -13,7 +14,7 @@ We hopen dat tegen het einde van klas 6 bijna iedereen een boek uit de top 10 ge
 
 ## De Grote Vriendelijke 100
 
-De [grote vriendelijke 100](https://www.hebban.nl/gv100) wordt samengesteld door luisteraars van de podcast, [De Grote Vriendelijke Podcast](https://degrotevriendelijkepodcast.nl/). Het is een brede lijst die elk jaar opnieuw ververst wordt. Een goede basis om een kwalitatief goede, en populaire collectie op te baseren.
+De [Grote Vriendelijke 100](https://www.hebban.nl/gv100) wordt samengesteld door luisteraars van de podcast, [De Grote Vriendelijke Podcast](https://degrotevriendelijkepodcast.nl/). Het is een brede lijst die elk jaar opnieuw ververst wordt. Een goede basis om een kwalitatief goede, en populaire collectie op te baseren.
 
 ## Gouden Griffels
 

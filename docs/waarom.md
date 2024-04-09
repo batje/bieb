@@ -1,3 +1,7 @@
+---
+# https://vitepress.dev/reference/default-theme-home-page
+title: Waarom doen we dit?
+---
 # Waarom
 
 Lezen is de allerbelangrijkste vaardigheid die kinderen leren in het basisonderwijs. Ook sommen moet je kunnen lezen. En formulieren, contracten, liefdesbrieven en andere belangrijke zaken. En lezen is ook een heerlijk tijdverdrijf dat je overal en altijd kunt doen.

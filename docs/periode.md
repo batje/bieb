@@ -1,3 +1,7 @@
+---
+# https://vitepress.dev/reference/default-theme-home-page
+title: Periode Onderwijs
+---
 # Periode Onderwijs
 
 Het periode onderwijs is hartstikke populair bij de kinderen, ze willen gretig alles te weten komen van het onderwerp waar ze dan in uitgedaagd worden. Een goede reden om juist dan voldoende aanbod te hebben wat daar bij aansluit.

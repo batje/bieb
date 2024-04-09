@@ -1,4 +1,5 @@
 import { defineConfig } from "vitepress";
+// import { defineConfig } from "@jcamp/vitepress-blog-theme/config";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -33,6 +34,41 @@ export default defineConfig({
     ],
   ],
   themeConfig: {
+    /*    blog: {
+      title: "My AI Written Blog",
+      description: "All these articles were written by AI!",
+      defaultAuthor: "AI Writer",
+      categoryIcons: {
+        article: "i-[heroicons-outline/book-open]",
+        tutorial: "i-[heroicons-outline/academic-cap]",
+        document: "i-[heroicons-outline/annotation]",
+      },
+      tagIcons: {
+        github: "i-[carbon/logo-github]",
+        vue: "i-[carbon/logo-vue]",
+      },
+    },
+    */
+    search: {
+      provider: "local",
+      options: {
+        translations: {
+          button: {
+            buttonText: "Zoek",
+            buttonAriaLabel: "Zoek in Site",
+          },
+          modal: {
+            noResultsText: "Geen resultaten voor",
+            resetButtonTitle: "Verwijder zoek",
+            footer: {
+              selectText: "Gaan",
+              navigateText: "Navigeer",
+              closeText: "Annuleer",
+            },
+          },
+        },
+      },
+    },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Voorpagina", link: "/" },
@@ -40,6 +76,9 @@ export default defineConfig({
       { text: "Hoe", link: "/hoe" },
       { text: "Waarom", link: "/waarom" },
       { text: "Wie", link: "/wie" },
+      /*
+      { text: "Blog Home", link: "/blog/", activeMatch: "/blog/$" },
+      */
     ],
 
     sidebar: [
@@ -71,7 +110,7 @@ export default defineConfig({
     socialLinks: [{ icon: "github", link: "https://github.com/batje/bieb" }],
     footer: {
       message:
-        "Dit is een onafhankelijk ouder initiatief, onafhankelijk van BLS of Stichting Pallas.",
+        "Dit is een ouder initiatief, onafhankelijk van BLS of Stichting Pallas.",
       copyright: "",
     },
     externalLinkIcon: true,

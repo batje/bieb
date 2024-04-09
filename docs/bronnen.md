@@ -1,4 +1,8 @@
-# Bronnen
+---
+# https://vitepress.dev/reference/default-theme-home-page
+title: Meer lezen?
+---
+# Meer lezen?
 
 Bij het lezen over lezen komen we bronnen tegen op het internet die we graag delen. Voor als je ook interesse hebt.
 
@@ -25,6 +29,10 @@ Accounts om te volgen op twitter.
 - Item van Eenvandaag
 
 <iframe src="https://eenvandaag.avrotros.nl/embed/544995/" width="560" height="315" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+
+- 
+<iframe style="float: right;" width="560" height="315" src="https://www.youtube.com/embed/UEt4nWnzaOw?si=yvElkusD4Lso5ETB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## PISA
 - Analyze van de PISA scores op [lezen.nl](https://www.lezen.nl/onderzoek/leesprestaties-nederlandse-middelbare-scholieren-gaan-achteruit/)

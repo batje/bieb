@@ -1,3 +1,7 @@
+---
+# https://vitepress.dev/reference/default-theme-home-page
+title: Uitgeverij Christofoor
+---
 # Uitgeverij Christofoor
 
 De uitgeverij [Christofoor](https://www.christofoor.nl/boeken/genres/kinder-en-jeugdboeken) is vanouds de uitgever van boeken geinspireerd door de Antroposofie van Steiner. 

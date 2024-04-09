@@ -1,3 +1,7 @@
+---
+# https://vitepress.dev/reference/default-theme-home-page
+title: Hoe werkt het?
+---
 # Hoe zamelen we boeken in?
 
 In de hal van de school staat een krat waar je boeken in kunt achterlaten. Een paar keer per week legen we de krat en registreren we de boeken.
