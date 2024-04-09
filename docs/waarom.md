@@ -15,7 +15,7 @@ Reden genoeg dus om extra ons best te doen om kinderen zo veel en zo goed mogeli
 Als ouders kunnen we daar ons steentje aan bijdragen. En dit is ons eerste steentje.
 
 
-## Leesvaardigheid (voor 15 jarigen)
+## Leesvaardigheid (van 15 jarigen)
 <img title="Pisa 2023" alt="Leesvaardigheid PISA 2023" src="./images/pisa2023.png" style="float:left" />
 
 
