@@ -14,6 +14,7 @@ Vader van Euan uit klas 2 & Morgan uit klas 6. Leest overdag de krant, 's nachts
 - Miranda op de Oordt - 
 Moeder van Rovor uit klas 2. Leest graag fictie (Nederlandse literatuur) en non fictie (biografieën en inspirerende boeken). Maar geniet ook mee van de kinderboeken.
 
-
+- Jurn Glazenburg -
+Vader van Maud (9) en Jasper (7). Vadercoach, mediawijsheid coach en voormalig bibliothecaris (Centre Ceramique). Kan zich geen wereld voorstellen zonder lezen en kan zich werelden voorstellen door te lezen.
 
 Je kunt ons bereiken op [bieb@simama.net](mailto:bieb@simama.net)
