@@ -48,3 +48,7 @@ Die collectie is in de loop der jaren flink uitgedund, en we willen de school gr
 
 Daarvoor zamelen we samen boeken in en schaffen we via Marktplaats en andere tweedehands kanalen mooie boeken aan die onze kinderen kunnen lenen en vooral, [lezen](waarom).
 
+## Resultaten
+
+Het inzamelen gaat goed vooruit. Deze grafiek laat de up-to-date resultaten zien, per leeftijdscategorie.
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4A_aeGz21xddL1ZyUWlCgtTWJ9fwlE78NqIAhoZd4Qaiyd0Wf1BQsDSwKRqV3xRsPXf6IeS-fLDfo/pubchart?oid=1552990009&amp;format=interactive"></iframe>
