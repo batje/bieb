@@ -1,10 +1,10 @@
 <script setup>
 // Commented out because of Github actions. The module is a CommonJs module
-// import { loadScript } from "vue-plugin-load-script";
+import { loadScript } from "vue-plugin-load-script";
 import { onMounted } from "vue";
 
-import pkg from "vue-plugin-load-script/index.js";
-const { loadScript } = pkg;
+//import pkg from "vue-plugin-load-script/index.js";
+//const { loadScript } = pkg;
 
 onMounted(() => {
   loadScript(
