@@ -15,6 +15,6 @@
     }
   },
   "dependencies": {
-    "vue-plugin-load-script": "^2.1.1"
+    "vue-plugin-load-script": "github:tserkov/vue-plugin-load-script#vue3"
   }
 }
