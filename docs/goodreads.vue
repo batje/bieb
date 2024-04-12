@@ -1,9 +1,16 @@
 <script setup>
-import { loadScript } from "vue-plugin-load-script";
+// Commented out because of Github actions. The module is a CommonJs module
+// import { loadScript } from "vue-plugin-load-script";
+import { onMounted } from "vue";
 
-loadScript(
-  "https://www.goodreads.com/review/grid_widget/177320128.De%20Donaties?cover_size=small&hide_link=&hide_title=&num_books=200&order=a&shelf=read&sort=date_added&widget_id=1712914555"
-);
+import pkg from "vue-plugin-load-script/index.js";
+const { loadScript } = pkg;
+
+onMounted(() => {
+  loadScript(
+    "https://www.goodreads.com/review/grid_widget/177320128.De%20Donaties?cover_size=small&hide_link=&hide_title=&num_books=200&order=a&shelf=read&sort=date_added&widget_id=1712914555"
+  );
+});
 </script>
 <template>
   <div>
