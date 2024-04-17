@@ -15,3 +15,7 @@ Zoals ze zelf zeggen:
 > Natuur en verbinding met de wereld om je heen zijn daarbij belangrijke thema's. Onze boeken hebben vaak een tijdloos karakter en we blijven waar het kan weg bij concrete "grote mensen problemen". We geloven namelijk dat door kinderen nu vertrouwen te geven in zichzelf en liefde bij te brengen voor de wereld om hen heen, we helpen bouwen aan een generatie die klaar is voor de uitdagingen van morgen.
 
 Deze boeken zullen vrijwel niet in de collectie van de bibliotheek zitten, maar hebben wel een plaats op de Vrije School.
+
+## De Boekerij
+
+Ook de uitgever [De Boekerij](https://www.deboekerijzutphen.nl/) heeft een uitgebreide collectie [kinderboeken](https://www.deboekerijzutphen.nl/c-2063646/kinderboeken/).
