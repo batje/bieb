@@ -43,6 +43,10 @@ Deze lijst is niet volledig, maar bestaat onder andere uit:
 - :balance_scale: De Romeinen
 - :military_helmet: De Tweede Wereldoorlog
 - :house: Kijkdozen
+- :gem:  Mineralogie
+- :cloud: Weer en klimaat
+- :straight_ruler: Meetkunde
+- :test_tube: Proefjes (natuurkunde/scheikunde opstap)
 
 
 Daarnaast zijn er nog onderwerpen die vaker terug komen:

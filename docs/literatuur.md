@@ -5,7 +5,7 @@ outline: deep
 Om zo objectief mogelijk te blijven, en omdat wij ook niet alles gelezen hebbben houden we ons bij de selectie van de literatuur aan de volgende twee lijsten.
 
 
-We gaan er vanuit dat de bibliotheek ee heel actueel en breed aanbod mee zal nemen die uitnodigd tot meer lezen en waar voor iedereen leuke boeken in de vinden zijn.
+We gaan er vanuit dat de bibliotheek ee heel actueel en breed aanbod mee zal nemen die uitnodigt tot meer lezen en waar voor iedereen leuke boeken in de vinden zijn.
 
 De onderstaande lijsten mogen wat ons betreft niet ontbreken, ze zijn en van hoge kwaliteit, en populair bij lezers.
 
