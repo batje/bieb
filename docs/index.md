@@ -37,12 +37,16 @@ features:
     details: Waar je iets van kunt leren.
     link: /stripsvereniging beter onderwijs Nederland
 ---
-<script setup>
+<!--<script setup>
   import goodreads from './goodreads.vue'
+  import librarything from './librarything.vue'
 </script>
-
+-->
 <!--<iframe style="float: right;" width="560" height="315" src="https://www.youtube.com/embed/UEt4nWnzaOw?si=yvElkusD4Lso5ETB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
+::: tip
+<CustomBlogHeader />
+:::
 In de nabije toekomst gaat de Bernard Lievegoedschool deelnemen aan het project ['De bibliotheek op School'](https://www.debibliotheekopschool.nl/). Dat is geweldig en daar zijn we heel blij mee.
 
 Naast roulerende collectie van de bibliotheek kan de school ook haar eigen collectie boeken aanbieden en beheren.
@@ -52,7 +56,7 @@ Die collectie is in de loop der jaren flink uitgedund, en we willen de school gr
 Daarvoor zamelen we samen boeken in en schaffen we via Marktplaats en andere tweedehands kanalen mooie boeken aan die onze kinderen kunnen lenen en vooral, [lezen](waarom).
 
 
-<goodreads/>
+<!--<librarything/>-->
 ## Resultaten
 
 Het inzamelen gaat goed vooruit. Deze grafiek laat de up-to-date resultaten zien, per leeftijdscategorie.

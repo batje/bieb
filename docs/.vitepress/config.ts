@@ -1,5 +1,9 @@
-import { defineConfig } from "vitepress";
+//import { defineConfig } from "vitepress";
+import { defineConfig } from "@jcamp/vitepress-blog-theme/config";
 // import { defineConfig } from "@jcamp/vitepress-blog-theme/config";
+//import commonjs from "vite-plugin-commonjs";
+//import { esbuildCommonjs, viteCommonjs } from "@originjs/vite-plugin-commonjs";
+//import vue from "@vitejs/plugin-vue";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -34,10 +38,11 @@ export default defineConfig({
     ],
   ],
   themeConfig: {
-    /*    blog: {
-      title: "My AI Written Blog",
-      description: "All these articles were written by AI!",
-      defaultAuthor: "AI Writer",
+    blog: {
+      title: "De BLS Bieb Blog",
+      description:
+        "Tips en weetjes over de bieb en leesonderwijs op de BLS en daarbuiten",
+      defaultAuthor: "Reinier",
       categoryIcons: {
         article: "i-[heroicons-outline/book-open]",
         tutorial: "i-[heroicons-outline/academic-cap]",
@@ -48,7 +53,7 @@ export default defineConfig({
         vue: "i-[carbon/logo-vue]",
       },
     },
-    */
+
     search: {
       provider: "local",
       options: {
@@ -76,9 +81,8 @@ export default defineConfig({
       { text: "Hoe", link: "/hoe" },
       { text: "Waarom", link: "/waarom" },
       { text: "Wie", link: "/wie" },
-      /*
-      { text: "Blog Home", link: "/blog/", activeMatch: "/blog/$" },
-      */
+
+      { text: "Blog", link: "/blog/", activeMatch: "/blog/$" },
     ],
 
     sidebar: [
@@ -116,5 +120,40 @@ export default defineConfig({
     externalLinkIcon: true,
     darkModeSwitchTitle: "Licht uit",
     lightModeSwitchTitle: "Licht aan",
+    markdown: {
+      container: {
+        tipLabel: "Laatste Blog Post",
+        warningLabel: "Waarschuwing",
+        dangerLabel: "Pas Op",
+        infoLabel: "Info",
+        detailsLabel: "Details",
+      },
+    },
   },
+  /*  vite: {
+    plugins: [
+      //      viteCommonjs({
+      //        include: ["vue-plugin-load-script"],
+      //      }),
+    ],
+    optimizeDeps: { exclude: ["vue-plugin-load-script"] },
+    build: {
+      rollupOptions: {
+        plugins: [
+          //          commonjs({
+          //            filter(id) {
+          // `node_modules` is exclude by default, so we need to include it explicitly
+          // https://github.com/vite-plugin/vite-plugin-commonjs/blob/v0.7.0/src/index.ts#L125-L127
+          //              console.log(id);
+          //              console.log("here we are");
+          //             return true;
+          //             if (id.includes("node_modules/vue-plugin-load-script")) {
+          //              return true;
+          //           }
+          //        },
+          //        }),
+        ],
+      },
+    },
+  },*/
 });
