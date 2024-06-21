@@ -41,7 +41,7 @@
 /**
  * Component: Home
  * -------------------------------------------------------------------------- */
-
+/*
 :root {
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(
@@ -57,7 +57,7 @@
   );
   --vp-home-hero-image-filter: blur(40px);
 }
-
+*/
 @media (min-width: 640px) {
   :root {
     --vp-home-hero-image-filter: blur(56px);
