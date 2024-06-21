@@ -1,6 +1,6 @@
 ---
 name: Reinier
-avatar: /images/reinier.jpg
+avatar: /reinier.jpg
 twitter: '@batje'
 ---
 
