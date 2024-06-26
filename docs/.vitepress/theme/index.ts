@@ -6,6 +6,7 @@ import CustomBlogHeader from "./CustomBlogHeader.vue";
 import "viewerjs/dist/viewer.min.css";
 import imageViewer from "vitepress-plugin-image-viewer";
 import { useRoute } from "vitepress";
+import Tweet from "vue-tweet";
 
 export default {
   ...VPBTheme,
@@ -18,6 +19,7 @@ export default {
   enhanceApp({ app, router, siteData }) {
     VPBTheme.enhanceApp({ app, router, siteData });
     app.component("CustomBlogHeader", CustomBlogHeader);
+    app.component("Tweet", Tweet);
   },
   setup() {
     // Get route
