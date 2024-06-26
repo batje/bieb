@@ -18,7 +18,7 @@ Paul Kirschner [blog op de site van Didactiek](https://didactiefonline.nl/blog/p
 
 ## Podcasts
 
-Paul Kirschner is ook regelmatig te gast in verschillende podcasts. Bijvoorbeeld in de [LLearn](llearn.html) podcast over de kunst en kunde van het lesgeven:
+Paul Kirschner is ook regelmatig te gast in verschillende podcasts. Bijvoorbeeld in de [LLearn](llearnpodcast.html) podcast over de kunst en kunde van het lesgeven:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2QqUJV6EKY1n9UoIt7Cvcy?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
