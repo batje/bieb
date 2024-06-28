@@ -7,6 +7,7 @@ import "viewerjs/dist/viewer.min.css";
 import imageViewer from "vitepress-plugin-image-viewer";
 import { useRoute } from "vitepress";
 import Tweet from "vue-tweet";
+import matomo from "@datagouv/vitepress-plugin-matomo";
 
 export default {
   ...VPBTheme,
@@ -20,6 +21,11 @@ export default {
     VPBTheme.enhanceApp({ app, router, siteData });
     app.component("CustomBlogHeader", CustomBlogHeader);
     app.component("Tweet", Tweet);
+    matomo({
+      router: router,
+      siteID: 46, // Replace with your site id
+      trackerUrl: "https://piwik.mountbatten.nl", // Replace with your matomo url
+    });
   },
   setup() {
     // Get route

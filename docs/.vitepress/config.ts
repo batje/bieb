@@ -11,32 +11,6 @@ export default defineConfig({
   description: "De bibliotheek op de Bernard Lievegoed School",
   base: "/",
   lang: "nl-NL",
-  head: [
-    [
-      "script",
-      {},
-      `<!-- Matomo -->
-        var _paq = window._paq = window._paq || [];
-        /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-        _paq.push(['trackPageView']);
-        _paq.push(['enableLinkTracking']);
-        (function() {
-          var u="https://piwik.mountbatten.nl/";
-          _paq.push(['setTrackerUrl', u+'matomo.php']);
-          _paq.push(['setSiteId', '46']);
-          var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-          g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-        })();
-      <!-- End Matomo Code -->
-      `,
-    ],
-    [
-      "noscript",
-      {},
-      `<p><img src="https://piwik.mountbatten.nl/matomo.php?idsite=46&amp;rec=1" style="border:0;" alt="" /></p>
-      `,
-    ],
-  ],
   themeConfig: {
     blog: {
       title: "De BLS Bieb Blog",

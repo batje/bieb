@@ -13,6 +13,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
+    "@datagouv/vitepress-plugin-matomo": "^1.0.5",
     "sass": "^1.77.6",
     "vitepress-plugin-image-viewer": "^1.1.4",
     "vue-tweet": "^2.3.1"
