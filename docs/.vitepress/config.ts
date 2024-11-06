@@ -11,6 +11,11 @@ export default defineConfig({
   description: "De bibliotheek op de Bernard Lievegoed School",
   base: "/",
   lang: "nl-NL",
+  head: [
+    ['link', { rel: 'icon',sizes:'16x16', type: 'image/x-icon', href: '/images/icons8-book-cute-color-16.png' }],
+    ['link', { rel: 'icon',sizes:'132x32', type: 'image/x-icon', href: '/images/icons8-book-cute-color-32.png' }],
+    ['link', { rel: 'icon',sizes:'96x96', type: 'image/x-icon', href: '/images/icons8-book-cute-color-96.png' }],
+  ],
   themeConfig: {
     blog: {
       title: "De BLS Bieb Blog",
@@ -51,6 +56,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Voorpagina", link: "/" },
+      {text: "Openingstijden", link: "open"},
       { text: "Wat", link: "/wat" },
       { text: "Hoe", link: "/hoe" },
       { text: "Waarom", link: "/waarom" },

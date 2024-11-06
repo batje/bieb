@@ -47,17 +47,11 @@ features:
 ::: tip
 <CustomBlogHeader />
 :::
-In de nabije toekomst gaat de Bernard Lievegoedschool deelnemen aan het project ['De bibliotheek op School'](https://www.debibliotheekopschool.nl/). Dat is geweldig en daar zijn we heel blij mee.
+Binnenkort opent de Bernard Lievegoedschool haar gloednieuwe bibliotheek. Docenten, ouders en de bibliotheek van Centre Ceramique werken achter de schermen keihard om hier een succes van te maken.
 
-Naast roulerende collectie van de bibliotheek kan de school ook haar eigen collectie boeken aanbieden en beheren.
+Wil je meehelpen en (af en toe) in de bieb boeken uitlenen of een praatje maken met leesgierige kinderen, mail ons geheel vrijblijvend en we vertellen je er alles over. Je kunt op de website [onze gewenste openingstijden](open) vinden. Overal waar het grijs is kan jouw namen komen te staan!
 
-Die collectie is in de loop der jaren flink uitgedund, en we willen de school graag helpen die weer in goede staat te brengen. 
+De boeken in de bibliotheek zijn inmiddels te [doorzoeken via het internet](https://webcat.hostedwise.nl/wise-apps/schoolwise/4349/search?qs=*&scope=anything&filter=mediumTypeCode:BOE&sortkey=2889).
 
-Daarvoor zamelen we samen boeken in en schaffen we via Marktplaats en andere tweedehands kanalen mooie boeken aan die onze kinderen kunnen lenen en vooral, [lezen](waarom).
+Maar dankzij het Bibliotheek op School project kunnen we die collectie binnenkort ook nog uitbreiden met de allernieuwste en mooiste nieuwe boeken.
 
-
-<!--<librarything/>-->
-## Resultaten
-
-Het inzamelen gaat goed vooruit. Deze grafiek laat de up-to-date resultaten zien, per leeftijdscategorie.
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4A_aeGz21xddL1ZyUWlCgtTWJ9fwlE78NqIAhoZd4Qaiyd0Wf1BQsDSwKRqV3xRsPXf6IeS-fLDfo/pubchart?oid=1552990009&amp;format=interactive"></iframe>

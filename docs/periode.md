@@ -24,6 +24,7 @@ Deze lijst is niet volledig, maar bestaat onder andere uit:
 
 - :closed_book: Bijbelverhalen (uit het oude testament)
 - :closed_book: Ambachten
+- :farmer: De Boerderij
 
 
 ## Klas 4
