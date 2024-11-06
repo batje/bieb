@@ -12,9 +12,9 @@ export default defineConfig({
   base: "/",
   lang: "nl-NL",
   head: [
-    ['link', { rel: 'icon',sizes:'16x16', type: 'image/x-icon', href: '/images/icons8-book-cute-color-16.png' }],
-    ['link', { rel: 'icon',sizes:'132x32', type: 'image/x-icon', href: '/images/icons8-book-cute-color-32.png' }],
-    ['link', { rel: 'icon',sizes:'96x96', type: 'image/x-icon', href: '/images/icons8-book-cute-color-96.png' }],
+    ['link', { rel: 'icon',sizes:'16x16', type: 'image/x-icon', href: '/icons8-book-cute-color-16.png' }],
+    ['link', { rel: 'icon',sizes:'132x32', type: 'image/x-icon', href: '/icons8-book-cute-color-32.png' }],
+    ['link', { rel: 'icon',sizes:'96x96', type: 'image/x-icon', href: '/icons8-book-cute-color-96.png' }],
   ],
   themeConfig: {
     blog: {
