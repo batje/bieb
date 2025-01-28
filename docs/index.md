@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Bieb op de BLS"
   text: ""
-  tagline: Een inzamelingsactie van de allermooiste boeken voor onze kinderen
+  tagline: De mooiste schoolbieb die je je kind kan wensen
   actions:
     - theme: brand
       text: Wat doen we?
@@ -47,11 +47,13 @@ features:
 ::: tip
 <CustomBlogHeader />
 :::
-Binnenkort opent de Bernard Lievegoedschool haar gloednieuwe bibliotheek. Docenten, ouders en de bibliotheek van Centre Ceramique werken achter de schermen keihard om hier een succes van te maken.
+Wij zijn de bibliotheek van de Bernard Lievegoedschool. De bibliotheek wordt door een team bevlogen ouders gerund. Je kunt de bieb vinden bovenaan de trap van het nieuwe gebouw (De Parel).
 
-Wil je meehelpen en (af en toe) in de bieb boeken uitlenen of een praatje maken met leesgierige kinderen, mail ons geheel vrijblijvend en we vertellen je er alles over. Je kunt op de website [onze gewenste openingstijden](open) vinden. Overal waar het grijs is kan jouw namen komen te staan!
+Wil je meehelpen en (af en toe) in de bieb boeken uitlenen of een praatje maken met leesgierige kinderen, mail ons geheel vrijblijvend en we vertellen je er alles over.
+
+Of loop 's ochtends even binnen. Je kunt op de website [onze gewenste openingstijden](open) vinden. Overal waar het grijs is kan jouw namen komen te staan!
 
 De boeken in de bibliotheek zijn inmiddels te [doorzoeken via het internet](https://webcat.hostedwise.nl/wise-apps/schoolwise/4349/search?qs=*&scope=anything&filter=mediumTypeCode:BOE&sortkey=2889).
 
-Maar dankzij het Bibliotheek op School project kunnen we die collectie binnenkort ook nog uitbreiden met de allernieuwste en mooiste nieuwe boeken.
+Dankzij het Bibliotheek op School project kunnen we die collectie binnenkort nog uitbreiden met de allernieuwste en mooiste nieuwe boeken.
 
