@@ -12,9 +12,33 @@ export default defineConfig({
   base: "/",
   lang: "nl-NL",
   head: [
-    ['link', { rel: 'icon',sizes:'16x16', type: 'image/x-icon', href: '/icons8-book-cute-color-16.png' }],
-    ['link', { rel: 'icon',sizes:'132x32', type: 'image/x-icon', href: '/icons8-book-cute-color-32.png' }],
-    ['link', { rel: 'icon',sizes:'96x96', type: 'image/x-icon', href: '/icons8-book-cute-color-96.png' }],
+    [
+      "link",
+      {
+        rel: "icon",
+        sizes: "16x16",
+        type: "image/x-icon",
+        href: "/icons8-book-cute-color-16.png",
+      },
+    ],
+    [
+      "link",
+      {
+        rel: "icon",
+        sizes: "132x32",
+        type: "image/x-icon",
+        href: "/icons8-book-cute-color-32.png",
+      },
+    ],
+    [
+      "link",
+      {
+        rel: "icon",
+        sizes: "96x96",
+        type: "image/x-icon",
+        href: "/icons8-book-cute-color-96.png",
+      },
+    ],
   ],
   themeConfig: {
     blog: {
@@ -56,13 +80,18 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Voorpagina", link: "/" },
-      {text: "Openingstijden", link: "open"},
+      { text: "Openingstijden", link: "open" },
       { text: "Wat", link: "/wat" },
       { text: "Hoe", link: "/hoe" },
       { text: "Waarom", link: "/waarom" },
       { text: "Wie", link: "/wie" },
 
       { text: "Blog", link: "/blog/", activeMatch: "/blog/$" },
+      {
+        text: "Handleidingen",
+        link: "/handleidingen/",
+        activeMatch: "/handleidingen/$",
+      },
     ],
 
     sidebar: [
@@ -88,6 +117,10 @@ export default defineConfig({
       {
         text: "Meer weten",
         items: [{ text: "Bronnen", link: "/bronnen" }],
+      },
+      {
+        text: "Handleidingen",
+        items: [{ text: "Sneltoetsen", link: "/handleidingen/sneltoetsen" }],
       },
     ],
 
